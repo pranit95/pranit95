@@ -7,5 +7,5 @@
 - 😊 A Quick learner and looking for interesting career opportunities in Web as a full-stack developer.
 - 📫 You can reach me at pranitjogwe@gmail.com
 - 😄 Pronouns: He/Him
-- 💬 You can find my work on [https://wizardly-morse-c7e8a0.netlify.app/](#Portfolio).
+- 💬 You can find my work on [https://wizardly-morse-c7e8a0.netlify.app/](#-portfolio).
 - 📄 To Know about my experiences in [](#-Resume)
