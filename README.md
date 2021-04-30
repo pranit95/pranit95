@@ -2,7 +2,7 @@
 ## A passionate aspiring Full Stack Web Developer from Nagpur,India.
 
 ## About me :
-- 🌱 I’m skilled in Full Stack Development, MERN Stack, Javascript and its frameworks.
+- 🌱 I’m skilled in Full Stack Web Development, MERN Stack, Javascript and its frameworks.
 - 👯 I’m looking to collaborate on developing new and intriguing open-source projects, with the community, for the community.
 - 😊 A Quick learner and looking for interesting career opportunities in Web as a full-stack developer.
 - 📫 You can reach me at pranitjogwe@gmail.com
